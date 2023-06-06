@@ -15,7 +15,7 @@
 
 </br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
-<img align='right' src="https://media.giphy.com/media/fMA8fQ06Q2wHxIX9ie/giphy.gif" height="250" width="350">
+<img align='right' src="https://media.giphy.com/media/43LjhmwNEPsqM2xlSV/giphy.gif" height="250" width="330">
 <h1><img src="https://media.giphy.com/media/MXdXh3xD7kHhRqTnAS/giphy.gif" width="30">  OBJECTIVE</h1>
   <p align='justify'>I am a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. I have a deep-rooted passion for data and analytics, constantly striving to unlock the transformative power of information.Throughout my academic journey, I have gained a solid foundation in computer science, programming, and software development. I am currently focusing on expanding my knowledge in cloud computing, DevOps practices, and their application in the industry. 
 In pursuit of my passion, I actively engage in hands-on projects, both individually and collaboratively, where I apply my knowledge and skills to real-world scenarios. I work with a diverse range of tools and technologies such as Python, R, SQL, and various data visualization tools to efficiently process, analyze, and present data.</p>
@@ -61,7 +61,7 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
 <a href="https://twitter.com/Abhishe06817605">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="https://www.linkedin.com/in/iamtheabhishekdas/">
+<a href="https://www.linkedin.com/in/ytripathi/">
   <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://wa.me/6371096736?text=Hello%20!%20">
@@ -76,7 +76,7 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/abhishekdas"><img src="https://api.daily.dev/devcards/e032e54a657740c9b3767c6a81cc80b7.png?r=j87" width="400" alt="AbhishekDas's Dev Card"/></a>
+      <a href="https://app.daily.dev/ytripathi"><img src="https://api.daily.dev/devcards/aba550038af64b24a48cf05aacadaac9.png?r=xmk" width="400" alt="Yashasvi Tripathi's Dev Card"/></a>
     </td>
   </tr>
   
@@ -84,7 +84,7 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
 <br/>
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
+  <img src="https://profile-counter.glitch.me/ytripathi/count.svg" />
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
@@ -158,12 +158,12 @@ Data Visualization Tools</h2>
 <h1 align="center" font-color="blue"> <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"> MY STREAK <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"></h1>
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtheabhishekdas&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ytripathi&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
 <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamtheabhishekdas&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytripathi&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
 <br>
 <br>
