@@ -1,4 +1,4 @@
-![WELCOME (4) (1)](https://github.com/ytripathi/ytripathi/assets/87714442/8bc2bf70-bf89-4e7d-92a2-634879dadb1c)
+![ezgif-5-1d756d9a0d](https://github.com/ytripathi/ytripathi/assets/87714442/efeff420-108f-49b1-9667-789f319d6e42)
 
 <h1 align="center" font-color="blue">Bonjour , I'm Yashasvi Tripathi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
