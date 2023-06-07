@@ -1,4 +1,5 @@
-![ezgif-5-1d756d9a0d](https://github.com/ytripathi/ytripathi/assets/87714442/efeff420-108f-49b1-9667-789f319d6e42)
+![WELCOME (6) (1)](https://github.com/ytripathi/ytripathi/assets/87714442/6fdb905f-f98d-4d4d-bedb-0e8c184d37be)
+
 
 <h1 align="center" font-color="blue">Bonjour , I'm Yashasvi Tripathi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -14,32 +15,40 @@
 </div>
 
 </br>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
-<img align='right' src="https://media.giphy.com/media/43LjhmwNEPsqM2xlSV/giphy.gif" height="250" width="330">
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="5">
+<img align='right' src="https://media.giphy.com/media/43LjhmwNEPsqM2xlSV/giphy.gif" height="270" width="350">
 <h1><img src="https://media.giphy.com/media/MXdXh3xD7kHhRqTnAS/giphy.gif" width="30">  OBJECTIVE</h1>
-  <p align='justify'>I am a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. I have a deep-rooted passion for data and analytics, constantly striving to unlock the transformative power of information.Throughout my academic journey, I have gained a solid foundation in computer science, programming, and software development. I am currently focusing on expanding my knowledge in cloud computing, DevOps practices, and their application in the industry. 
-In pursuit of my passion, I actively engage in hands-on projects, both individually and collaboratively, where I apply my knowledge and skills to real-world scenarios. I work with a diverse range of tools and technologies such as Python, R, SQL, and various data visualization tools to efficiently process, analyze, and present data.</p>
+  <p align='justify'>I am currently a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. My journey as an MCA CC & DevOps student has been an exciting and enriching experience so far.
+But what truly sets my heart on fire is my immense passion for data and analytics. I am deeply fascinated by the vast potential hidden within data and the incredible insights it can provide. My unwavering enthusiasm for this field drives me to explore innovative ways to harness the power of data and transform it into actionable knowledge.
 
+Throughout my academic journey, I have gained a strong foundation in computer science, programming, and software development. My focus lies in mastering the intricacies of cloud computing, DevOps methodologies, and their practical applications in real-world scenarios.
+However, my true love lies in the world of data and analytics. I am constantly seeking to expand my knowledge and skills in this domain. I am well-versed in various data analysis techniques and tools, including Python, R, SQL, and data visualization tools. I believe in the importance of making data-driven decisions, and I am always eager to learn new techniques and stay updated with the latest trends in the field.</p>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="5">
 <h1><img src="https://media.giphy.com/media/FEzcI0TlDxkdbaHTwV/giphy.gif" width="30">  BADGES EARNED</h1>
-<a href="https://www.credly.com/earner/earned/badge/3b2aac4c-5441-4d5a-8561-8f4baba0a2e3">
-  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" />
+
+<a href="https://www.credly.com/badges/de2f8b68-5ca9-44de-a9e4-43563ac2fe42">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" />
 </a>
-<a href="https://www.credly.com/earner/earned/badge/7ef86dda-02cd-402e-9deb-3bf2d33fa472">
-  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png" />
+<a href="https://www.credly.com/badges/67363641-0d5e-4cb8-a778-6bb35a7f0789">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" />
 </a>
-<a href="https://www.credly.com/earner/earned/badge/83988bec-771d-4044-9de9-3add7248d92c">
-  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" />
+<a href="https://www.credly.com/badges/b5a1e943-277e-49a4-969d-375d4f5da5b7">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" />
 </a>
-<a href="https://www.credly.com/earner/earned/badge/e8bb1390-b3be-41b7-b012-e61bdee87f40">
+<a href="https://www.credly.com/badges/42a2b207-5a99-4dc0-b29c-4dc7b1bc7ea7">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/7d59a314-d9bd-4ed9-80dd-9f3af94d77d1/Data_Analytics_Essentials.png" />
+</a>
+<a href="https://www.credly.com/badges/11a9324a-a24a-40d4-b797-07809bacc843">
+  <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/dab7d3e9-427d-46d0-af9e-3fd6bb7c3328/Excel_Essentials_for_Data_Analytics.png" />
+</a>
+<a href="https://www.credly.com/badges/5e2f10c9-e07b-4831-9715-960891cb9918">
   <img align="left" width="80px" src="https://images.credly.com/size/680x680/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" />
 </a>
+<br/>
+<br/>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="5">
 </p>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <table>
   <tr>
     <td valign="center">
@@ -49,28 +58,25 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
 🔭 I’m currently working on VasisTree
 <br>🤝 I’m looking for help with Data Analyst Project<br>🌱 I’m currently learning Looker, D3F.js<br>💬 Ask me about Advance Excel, Python , SQL, PowerBI<br>⚡ Fun facts Did you know that the world's largest rubber duck is taller than the Statue of Liberty? Talk about quacking big egos!
 <br/>
-<a href="https://theabhishekdas.netlify.app/">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-        <br/>
-        <br />
-        <h2 align="left" font-color="blue"> <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" width="35"> WE CAN TALK WITH </h2>
+
+<h2 align="left" font-color="blue"> <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" width="35"> WE CAN TALK WITH </h2>
         
-<a href="mailto:theabhishekdas279@gmail.com">
+<a href="mailto:yashasvitripathi22@gmail.com">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<a href="https://twitter.com/Abhishe06817605">
+<a href="https://twitter.com/YashasviTripa13">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ytripathi/">
+<a href="https://www.linkedin.com/in/theyashasvitripathi/">
   <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
-<a href="https://wa.me/6371096736?text=Hello%20!%20">
+<a href="https://wa.link/g76aut">
   <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
 </a>
-<a href="https://www.facebook.com/theabhishekdas">
+<a href="https://www.facebook.com/y.tripathi.73">
   <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
 </a>
-<a href="https://www.instagram.com/the_brn_warrior/">
+<a href="https://www.instagram.com/y.tripathi.73/">
   <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
        </p>
@@ -82,13 +88,18 @@ In pursuit of my passion, I actively engage in hands-on projects, both individua
   
 </table>
 <br/>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="5">
 <p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/ytripathi/count.svg" />
+  <img src="https://media.giphy.com/media/TdB5cIvuPpPtOjW4zG/giphy.gif" width="150" >
+    <br/>
+    <img src="https://profile-counter.glitch.me/ytripathi/count.svg" width="250"/>
 </p>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+<!-- <p align="center"> 
+  <img src="https://profile-counter.glitch.me/ytripathi/count.svg" />
+</p> -->
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="5">
 
-<h1 align="left" font-color="blue"> <img src="https://media.giphy.com/media/Q5Wmfddmzp0VSJeBFF/giphy.gif" width="35"> SKILLS </h1>
+<h1 align="left" font-color="blue"> <img src="https://media.giphy.com/media/Q5Wmfddmzp0VSJeBFF/giphy.gif" width="30"> SKILLS </h1>
 <h2><img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25" height="25">
 Programming languages</h2>
 
@@ -126,8 +137,6 @@ Databases & Cloud Hosting</h2>
   &emsp;
   <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"></a>
   &emsp;
-  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"></a>
-  &emsp;
    
 </p>
 
@@ -154,7 +163,7 @@ Data Visualization Tools</h2>
  </p>
 </p>
 <br/>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="5">
 <h1 align="center" font-color="blue"> <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"> MY STREAK <img src="https://media.giphy.com/media/Hnc9cKtroe6GkAGzsN/giphy.gif" width="45"></h1>
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
@@ -165,8 +174,6 @@ Data Visualization Tools</h2>
 <a href="#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ytripathi&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
     </a>
-<br>
-<br>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+<img align="center" src="https://media.giphy.com/media/5pht3pdGxOthT7agfe/giphy.gif" alt="javascript" width="100%" height="200"/>
 
 
