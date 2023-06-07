@@ -1,6 +1,4 @@
-![WELCOME (6) (1)](https://github.com/ytripathi/ytripathi/assets/87714442/6fdb905f-f98d-4d4d-bedb-0e8c184d37be)
-
-
+![ezgif com-crop (2)](https://github.com/ytripathi/ytripathi/assets/87714442/564d7c91-41cb-4a52-b520-f32488fba541)
 <h1 align="center" font-color="blue">Bonjour , I'm Yashasvi Tripathi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=0080FECenter=true&center=true&width=460&lines=Data-Analyst" </p></br>
