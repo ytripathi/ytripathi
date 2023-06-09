@@ -14,7 +14,7 @@
 
 </br>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="5">
-<img align='right' src="https://media.giphy.com/media/43LjhmwNEPsqM2xlSV/giphy.gif" height="270" width="350">
+<img align='right' src="https://media.giphy.com/media/xHEedlMz9S5K76n1lv/giphy.gif" height="290" width="370">
 <h1><img src="https://media.giphy.com/media/MXdXh3xD7kHhRqTnAS/giphy.gif" width="30">  OBJECTIVE</h1>
   <p align='justify'>I am currently a student pursuing a Master's in Computer Applications (MCA) with a specialization in Cloud Computing and DevOps at Chandigarh University. My journey as an MCA CC & DevOps student has been an exciting and enriching experience so far.
 But what truly sets my heart on fire is my immense passion for data and analytics. I am deeply fascinated by the vast potential hidden within data and the incredible insights it can provide. My unwavering enthusiasm for this field drives me to explore innovative ways to harness the power of data and transform it into actionable knowledge.
